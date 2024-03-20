@@ -25,7 +25,7 @@ Skill Extraction Challenge: Implement an advanced feature within "ResumeRevealer
 
 - Career Trajectory: Provides a chronological overview of the candidate's profile.
 
-- Job Title Standardization: Utilizes the O*NET database to ensure consistency in job title taxonomy across resumes.
+- Job Title Standardization: Utilizes the O*NET database to ensure consistency in job title taxonomy across resumes. [https://www.onetcenter.org/taxonomy/2019/list.html]
 
 
 ## Submission Requirements
